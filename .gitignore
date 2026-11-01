@@ -1,0 +1,21 @@
+# ROS 2 generated files
+/build/
+/install/
+/log/
+
+# Other ROS 2 packages - not part of this project
+/src/speed_monitor_system/
+/src/starting_cpp_pubsub/
+/src/temperature_interface/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+*~

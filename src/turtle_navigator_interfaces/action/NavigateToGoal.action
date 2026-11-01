@@ -1,0 +1,14 @@
+# Goal: target position and orientation
+turtle_navigator_interfaces/Goal target
+---
+# Result: final navigation outcome
+bool success
+
+# Total distance traveled
+float64 total_distance
+
+# Total time taken
+builtin_interfaces/Duration total_time
+---
+# Feedback: remaining distance to target
+float64 remaining_distance

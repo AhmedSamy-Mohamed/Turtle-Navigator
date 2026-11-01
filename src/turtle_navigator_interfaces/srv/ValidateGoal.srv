@@ -1,0 +1,8 @@
+# Request: target goal
+turtle_navigator_interfaces/Goal goal
+---
+# Response: validation result
+bool accepted
+
+# Explanation if the goal is rejected
+string reason
