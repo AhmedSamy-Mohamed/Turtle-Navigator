@@ -89,7 +89,7 @@ The `turtle_navigator_interfaces` package defines:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Turtle-Navigator.git
+git clone https://github.com/AhmedSamy-Mohamed/Turtle-Navigator.git
 cd Turtle-Navigator
 ```
 
